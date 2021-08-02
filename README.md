@@ -7,6 +7,20 @@
 
 🕹️ Apaixonado por jogos 
 
+**Experiências:**
+- 👨🏻‍💻 Trabalhei como Desenvolvedor na Apolo Sites usando tecnologias como 
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?&logo=MySQL)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?&logo=Html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
+  ![PHP](https://img.shields.io/badge/-PHP-black?&logo=PHP)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?&logo=bootstrap)
+  ![WordPress](https://img.shields.io/badge/-Wordpress-black?&logo=wordpress)
+  
+**Interesse em aprender:**
+  
+![Flask](https://img.shields.io/badge/-Flask-black?&logo=flask)
+![Django](https://img.shields.io/badge/-Django-black?&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
 
 <div>
  <a href="https://github.com/luankkobs">
@@ -29,4 +43,5 @@
  <a href="https://www.linkedin.com/in/luan-kobs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
+ <a href =""><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
 </div>
