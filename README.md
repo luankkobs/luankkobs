@@ -1,9 +1,9 @@
 
 ## Olá, meu nome é Luan e seja bem vindo ao meu GitHub :) 
 
-🎒 Estudante de Análise e Desenvolvimento de Sistemas
+🎒 Estudante de Segurança Cibernética
 
-📚 Atualmente estudando Python 
+📚 Atualmente estudando Golang
 
 🕹️ Apaixonado por jogos 
 
