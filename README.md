@@ -18,7 +18,7 @@
   
 **Interesse em aprender:**
   
-![Flask](https://img.shields.io/badge/-Flask-black?&logo=flask)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ![Django](https://img.shields.io/badge/-Django-black?&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
 
