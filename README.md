@@ -19,8 +19,9 @@
 **Interesse em aprender:**
   
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-![Django](https://img.shields.io/badge/-Django-black?&logo=django)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
  <div style="display: inline_block"><br>
  <img align="right" alt="Luan-Animated" src="https://i.picasion.com/pic91/ae514c2cfc205c7f0a5d1f8512a8265a.gif">
