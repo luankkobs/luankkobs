@@ -1,7 +1,8 @@
 
-## Olá, meu nome é Luan e seja bem vindo ao meu GitHub :) 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luan Kobs</h1>
 
 🎒 Estudante de Ciência da Computação
+
 📚 Atualmente estudando Golang
 
 🕹️ Apaixonado por jogos 
