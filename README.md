@@ -3,25 +3,12 @@
 
 🎒 Estudante de Ciência da Computação
 
-📚 Atualmente estudando Golang
-
-🕹️ Apaixonado por jogos 
+📚 Atualmente estudando tecnologias como: 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Experiências:**
-- 👨🏻‍💻 Trabalhei como Desenvolvedor na Apolo Sites usando tecnologias como 
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?&logo=MySQL)
-  ![HTML5](https://img.shields.io/badge/-HTML5-black?&logo=Html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-black?&logo=Css3&logoColor=blue)
-  ![PHP](https://img.shields.io/badge/-PHP-black?&logo=PHP)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?&logo=bootstrap)
-  ![WordPress](https://img.shields.io/badge/-Wordpress-black?&logo=wordpress)
-  
-**Interesse em aprender:**
-  
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+- 👨🏻‍💻 Atualmente atuando como Starter Analyst na HostGator
 
  <div style="display: inline_block"><br>
  <img align="right" alt="Luan-Animated" src="https://i.picasion.com/pic91/ae514c2cfc205c7f0a5d1f8512a8265a.gif">
